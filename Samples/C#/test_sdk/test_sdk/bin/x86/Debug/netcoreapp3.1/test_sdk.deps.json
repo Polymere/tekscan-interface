@@ -1,0 +1,104 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "test_sdk/1.0.0": {
+        "dependencies": {
+          "TekAPI": "2.2.0.0"
+        },
+        "runtime": {
+          "test_sdk.dll": {}
+        }
+      },
+      "TekAPI/2.2.0.0": {
+        "runtime": {
+          "TekAPI.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      },
+      "tlllWin32/0.0.0.0": {
+        "runtime": {
+          "tlllWin32.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "sensor/0.0.0.0": {
+        "runtime": {
+          "sensor.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "gridlib/1.0.6884.22739": {
+        "runtime": {
+          "gridlib.dll": {
+            "assemblyVersion": "1.0.6884.22739",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "h2m/0.0.0.0": {
+        "runtime": {
+          "h2m.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "map/0.0.0.0": {
+        "runtime": {
+          "map.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test_sdk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TekAPI/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "tlllWin32/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sensor/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "gridlib/1.0.6884.22739": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "h2m/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "map/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
